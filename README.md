@@ -12,7 +12,7 @@ This Python program demonstrates a custom encryption and decryption process usin
 2. Run the program using the following command:
 
    ```shell
-   python3 index.py
+   python3 main.py
 You will see the following output:
 
 Original text: Hello, World!
