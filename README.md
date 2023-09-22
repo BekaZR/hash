@@ -1,7 +1,6 @@
 Certainly! Here's a README.md file for your Python encryption program with a complete description:
 
-markdown
-Copy code
+
 # Custom Encryption Program
 
 This Python program demonstrates a custom encryption and decryption process using a key matrix. It takes an input text, encrypts it using the key matrix, and then decrypts it back to the original text.
@@ -15,8 +14,7 @@ This Python program demonstrates a custom encryption and decryption process usin
    ```shell
    python3 index.py
 You will see the following output:
-vbnet
-Copy code
+
 Original text: Hello, World!
 Key matrix:
 ... (the generated key matrix)
