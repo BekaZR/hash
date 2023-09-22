@@ -14,7 +14,9 @@ if __name__ == "__main__":
     
     # Encrypt user input
     user_encrypted_data = user_interface_encrypt(key=key, data=user_data)
-    
+    print("\nKey matrix:")
+    for row in key:
+        print(' '.join(row))
     print("Encrypted text:", user_encrypted_data)
     
     # Provide instructions to the user
